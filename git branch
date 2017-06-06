@@ -1,0 +1,48 @@
+[33mcommit e177696ac93b289370cf41a1cef5de03eac8871b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: IvanGyoshev <ivan_gy6ev@abv.bg>
+Date:   Tue Jun 6 12:01:28 2017 +0300
+
+    changes master branch
+
+[33mcommit b677b36b60ed7b8203894389b828e3ee3b691352[m
+Author: IvanGyoshev <ivan_gy6ev@abv.bg>
+Date:   Tue Jun 6 11:51:18 2017 +0300
+
+    a little bit changes
+
+[33mcommit 9edab16b9d95b0e017de5b9517b19593685bb168[m
+Author: IvanGyoshev <ivan_gy6ev@abv.bg>
+Date:   Tue Jun 6 11:44:27 2017 +0300
+
+    made some changes to dev branch
+
+[33mcommit 694711c2b2e2c0e146090ab7fe729ba0545ec3df[m
+Merge: f6fc8a5 dafdd31
+Author: IvanGyoshev <ivan_gy6ev@abv.bg>
+Date:   Tue Jun 6 11:28:33 2017 +0300
+
+    merged files
+
+[33mcommit f6fc8a5c4f66fd5053fecc19f09d6d7dc8414743[m
+Author: IvanGyoshev <ivan_gy6ev@abv.bg>
+Date:   Tue Jun 6 10:33:44 2017 +0300
+
+    new messages
+
+[33mcommit dafdd31097d200f9dace63a335b32603b190cddb[m
+Author: ivan Gyoshev <ivan_gy6ev@abv.bg>
+Date:   Tue Jun 6 09:52:15 2017 +0300
+
+    Update test1.txt
+
+[33mcommit d97f01dc36b4d3088df57b4ad4f184ad1ff5a9af[m
+Author: IvanGyoshev <ivan_gy6ev@abv.bg>
+Date:   Tue Jun 6 09:43:34 2017 +0300
+
+    add new line in test1.txt
+
+[33mcommit 816b32b88d641260dfaed3a84fe992c9411724b6[m
+Author: IvanGyoshev <ivan_gy6ev@abv.bg>
+Date:   Tue Jun 6 09:27:58 2017 +0300
+
+    initial commit
